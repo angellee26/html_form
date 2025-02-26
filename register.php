@@ -17,9 +17,9 @@
                 <tr>
                     <td>Gender</td>
                     <td>
-                        <input type = "Radio" id="Male" name="Value" value="Male" checked>
+                        <input type = "Radio" id="Male" name="Value" value="Male" checked> <br>
                         <label for = "Male">Male </label>
-                        <input type = "Radio" id="Female" name="Value" value="Female">
+                        <input type = "Radio" id="Female" name="Value" value="Female"> <br>
                         <label for = "Female">Female </label>
                     </td>
                 </tr>
